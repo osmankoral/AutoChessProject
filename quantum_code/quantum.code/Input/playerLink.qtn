@@ -1,0 +1,23 @@
+component playerLink
+{
+	player_ref Player;
+	int Level;
+	int Exp;
+	int MaxExp;
+	int Gold;
+	FPVector3 RefPos;
+	int CharacterCount;
+	bool CharacterCreate;
+	int CharacterPrefabIndex;
+	FPVector3 BackSet1;
+	FPVector3 BackSet2;
+
+	array<bool>[9] Bachs;
+
+	array<EntityRef>[18] UnitList;
+	hash_set<EntityRef> EnHash;
+
+	bool IsCharactersRes;
+	bool IsReView;
+	
+}

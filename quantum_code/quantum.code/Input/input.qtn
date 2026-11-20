@@ -1,0 +1,16 @@
+﻿input {
+	short DirectionX;
+	short DirectionY;
+
+	button Jump;
+	button Create;
+
+	bool Crreat;
+	int PrefabIndex;
+	bool IsCharMove;
+	bool IsCharActiive;
+	FPVector3 CharPlayerMove;
+	EntityRef CharEntity;
+
+	int BoxIndex;
+}

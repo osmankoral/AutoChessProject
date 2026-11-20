@@ -1,0 +1,28 @@
+component CharacterHandler
+{
+	int TeamNumber;
+	int Player;
+	int PrefabIndex;
+	EntityRef PlayerEntityRef;
+	EntityRef entityRef;
+	int CharacterID;
+	FPVector3 GuardPos;
+	FPVector3 Pos;
+	CharacterState State;
+	EntityRef TargetEnemy;
+	bool IsMove;
+	bool IsAttack;
+	FP AttackRange;
+	FP AttackCD;
+	FP AttackTimer;
+	int MaxHealth;
+	FP Health;
+	int MaxMana;
+	int Mana;
+	FP Damage;
+	bool IsCharacterMove;
+	bool IsCharacterActive;
+	int OnBoxIndex;
+	bool IsUseSkill;
+	bool IsReset;
+}

@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dd8e95ae0daaec4496511105240e8a3, type: 3}
+  m_Name: AssetResources
+  m_EditorClassIdentifier: 
+  AssetBundlesGroup:
+    _resources: []
+  ResourcesGroup:
+    _resources:
+    - Path: Resources/DB/Configs/DefaultPhysicsMaterial
+      AssetRef:
+        Id:
+          Value: 1
+      ResourcePath: DB/Configs/DefaultPhysicsMaterial
+    - Path: Resources/DB/Configs/DefaultNavMeshAgentConfig
+      AssetRef:
+        Id:
+          Value: 2
+      ResourcePath: DB/Configs/DefaultNavMeshAgentConfig
+    - Path: Resources/DB/Configs/DefaultCharacterController2D
+      AssetRef:
+        Id:
+          Value: 3
+      ResourcePath: DB/Configs/DefaultCharacterController2D
+    - Path: Resources/DB/Configs/DefaultCharacterController3D
+      AssetRef:
+        Id:
+          Value: 4
+      ResourcePath: DB/Configs/DefaultCharacterController3D
+    - Path: Resources/DB/Configs/SimulationConfig
+      AssetRef:
+        Id:
+          Value: 5
+      ResourcePath: DB/Configs/SimulationConfig
+    - Path: Resources/DB/Characters/ElfAssasin/ElfAssasinPrefab|EntityView
+      AssetRef:
+        Id:
+          Value: 399973548281243103
+      ResourcePath: DB/Characters/ElfAssasin/ElfAssasinPrefab
+    - Path: Resources/DB/Characters/ElfArcher/ElfArcherPrefab|EntityView
+      AssetRef:
+        Id:
+          Value: 590240659684563239
+      ResourcePath: DB/Characters/ElfArcher/ElfArcherPrefab
+    - Path: Resources/DB/Characters/ElfArcher/ElfArcherPrefab|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 625807174904270934
+      ResourcePath: DB/Characters/ElfArcher/ElfArcherPrefab
+    - Path: Resources/DB/Characters/ElfKing/ElfKingPrefab|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 777652256943676252
+      ResourcePath: DB/Characters/ElfKing/ElfKingPrefab
+    - Path: Resources/DB/Map1_mesh
+      AssetRef:
+        Id:
+          Value: 810189026489540597
+      ResourcePath: DB/Map1_mesh
+    - Path: Resources/DB/Characters/ElfWarrior/ElfWarriorPrefab|EntityView
+      AssetRef:
+        Id:
+          Value: 912555097437143161
+      ResourcePath: DB/Characters/ElfWarrior/ElfWarriorPrefab
+    - Path: Resources/DB/Arrow|EntityView
+      AssetRef:
+        Id:
+          Value: 1059602776334326376
+      ResourcePath: DB/Arrow
+    - Path: Resources/DB/Characters/HumanArcher/HumanArcher|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 1197806648816631480
+      ResourcePath: DB/Characters/HumanArcher/HumanArcher
+    - Path: Resources/DB/Map1
+      AssetRef:
+        Id:
+          Value: 1710471675203725834
+      ResourcePath: DB/Map1
+    - Path: Resources/DB/Characters/ElfKing/ElfKingPrefab|EntityView
+      AssetRef:
+        Id:
+          Value: 1764308101377740603
+      ResourcePath: DB/Characters/ElfKing/ElfKingPrefab
+    - Path: Resources/DB/Map1_NavMesh_data
+      AssetRef:
+        Id:
+          Value: 1839281178550652726
+      ResourcePath: DB/Map1_NavMesh_data
+    - Path: Resources/DB/Characters/HumanWarrior/HumanWarrior|EntityView
+      AssetRef:
+        Id:
+          Value: 1957609560233670288
+      ResourcePath: DB/Characters/HumanWarrior/HumanWarrior
+    - Path: Resources/DB/Characters/ElfAssasin/ElfAssasinPrefab|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 2611455846697752095
+      ResourcePath: DB/Characters/ElfAssasin/ElfAssasinPrefab
+    - Path: Resources/DB/Map1_NavMesh
+      AssetRef:
+        Id:
+          Value: 2664098684286699578
+      ResourcePath: DB/Map1_NavMesh
+    - Path: Resources/DB/Characters/HumanArcher/HumanArcher|EntityView
+      AssetRef:
+        Id:
+          Value: 2705073882837385176
+      ResourcePath: DB/Characters/HumanArcher/HumanArcher
+    - Path: Resources/DB/Characters/HumanWarrior/HumanWarrior|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 2899559809751574178
+      ResourcePath: DB/Characters/HumanWarrior/HumanWarrior
+    - Path: Resources/DB/CharacterControllerEntity|EntityView
+      AssetRef:
+        Id:
+          Value: 3068488247410917959
+      ResourcePath: DB/CharacterControllerEntity
+    - Path: Resources/DB/Characters/ElfWarrior/ElfWarriorPrefab|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 3205361585833325363
+      ResourcePath: DB/Characters/ElfWarrior/ElfWarriorPrefab
+    - Path: Resources/DB/CharacterControllerEntity|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 3454588351744422229
+      ResourcePath: DB/CharacterControllerEntity
+    - Path: Resources/DB/Characters/ElfKnight/ElfKnightPrefab|EntityView
+      AssetRef:
+        Id:
+          Value: 3549794512554339186
+      ResourcePath: DB/Characters/ElfKnight/ElfKnightPrefab
+    - Path: Resources/DB/Characters/ElfKnight/ElfKnightPrefab|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 3579113200529272028
+      ResourcePath: DB/Characters/ElfKnight/ElfKnightPrefab
+    - Path: Resources/DB/Banch|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 3885722967929416074
+      ResourcePath: DB/Banch
+    - Path: Resources/DB/Game Session Entity|EntityView
+      AssetRef:
+        Id:
+          Value: 4502023915518466366
+      ResourcePath: DB/Game Session Entity
+    - Path: Resources/DB/Game Session Entity|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 4587400767415509503
+      ResourcePath: DB/Game Session Entity
+    - Path: Resources/DB/Arrow|EntityPrototype
+      AssetRef:
+        Id:
+          Value: 4599947721685189111
+      ResourcePath: DB/Arrow

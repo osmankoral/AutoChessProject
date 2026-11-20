@@ -1,0 +1,6 @@
+component CharacterId
+{
+	EntityRef Ref;
+	int UnitID;
+	int StarLevel;
+}

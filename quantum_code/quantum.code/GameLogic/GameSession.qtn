@@ -1,0 +1,12 @@
+singleton component GameSession
+{
+	[ExcludeFromPrototype] GameState State;
+	FP TimeUntilStat;
+	FP GameTimeCooldown;
+	FP PrepartionCooldown;
+	int RoundCount;
+	bool EndRound;
+	int Team1Healt;
+	int Team2Healt;
+	
+}

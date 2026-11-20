@@ -1,0 +1,5 @@
+component CharacterRef
+{
+	EntityRef EntityRef;
+	CharacterHandler CharacterData;
+}

@@ -1,0 +1,4 @@
+component BackSet
+{
+	FPVector3 Position;
+}
